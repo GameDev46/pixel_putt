@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/Version-0.0.1-green?style=for-the-badge&labelColor=1f1f22&color=Green" alt="GameDev46 - particle_experiment">
 </a>
 
-![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=C&logoColor=6060ef)
+ ![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=C&logoColor=6060ef)
     
 <a href="https://github.com/GameDev46/particle_experiment/stargazers">
     <img src="https://img.shields.io/github/stars/GameDev46/particle_experiment?style=for-the-badge&labelColor=1f1f22" alt="stars - particle_experiment">
@@ -16,14 +16,6 @@
  </a>
 
 <br>
-<br>
-
-<div align="left">
-<a href="https://gamedev46.github.io/particle_experiment/">
-    <img src="https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&labelColor=1f1f22" alt="View site - GH Pages">
-</a>
-</div>
-
 <br>
 
 <p align="left">
