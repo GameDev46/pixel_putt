@@ -28,6 +28,21 @@
 
 A simple top down 2D golf game made entirely in C with Raylib
 
+# Credits
+
+Theme Song:
+GameDev46
+
+Sound Effects:
+[freesound.org](https://freesound.org)
+GameDev46
+
+Programming:
+GameDev46
+
+Art:
+GameDev46
+
 # Usage
 
 Left click, pull back and release to shoot your trusty golf ball across the map evading obstacles and reaching the hole to progress. Pixel Putt is a simple open source golf game that can be used directly on your windows computer (I am not sure if it is supported on Mac and Linux) by running the [Pixel Putt executable](/pixelPutt.exe) file in the repository. Want to create your own levels or just change the game to your liking, open the [main c file](/main.c) using an appropriate code editing software and then when you are finished run the command...
