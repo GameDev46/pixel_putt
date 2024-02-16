@@ -1,18 +1,18 @@
 <a href="https://github.com/GameDev46" title="Go to GitHub repo">
     <img src="https://img.shields.io/static/v1?label=GameDev46&message=|&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - particle_experiment">
-    <img src="https://img.shields.io/badge/Version-0.0.6-green?style=for-the-badge&labelColor=1f1f22&color=Green" alt="GameDev46 - particle_experiment">
+    <img src="https://img.shields.io/badge/Version-0.0.6-green?style=for-the-badge&labelColor=1f1f22&color=Green" alt="GameDev46 - pixel_putt">
 </a>
 
  ![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=C&logoColor=6060ef)
     
-<a href="https://github.com/GameDev46/particle_experiment/stargazers">
-    <img src="https://img.shields.io/github/stars/GameDev46/particle_experiment?style=for-the-badge&labelColor=1f1f22" alt="stars - particle_experiment">
+<a href="https://github.com/GameDev46/pixel_putt/stargazers">
+    <img src="https://img.shields.io/github/stars/GameDev46/pixel_putt?style=for-the-badge&labelColor=1f1f22" alt="stars - pixel_putt">
 </a>
-<a href="https://github.com/GameDev46/particle_experiment/forks">
-    <img src="https://img.shields.io/github/forks/GameDev46/particle_experiment?style=for-the-badge&labelColor=1f1f22" alt="forks - particle_experiment">
+<a href="https://github.com/GameDev46/pixel_putt/forks">
+    <img src="https://img.shields.io/github/forks/GameDev46/pixel_putt?style=for-the-badge&labelColor=1f1f22" alt="forks - pixel_putt">
 </a>
-<a href="https://github.com/GameDev46/particle_experiment/issues">
-    <img src="https://img.shields.io/github/issues/GameDev46/particle_experiment?style=for-the-badge&labelColor=1f1f22&color=blue"/>
+<a href="https://github.com/GameDev46/pixel_putt/issues">
+    <img src="https://img.shields.io/github/issues/GameDev46/pixel_putt?style=for-the-badge&labelColor=1f1f22&color=blue"/>
  </a>
 
 <br>
