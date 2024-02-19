@@ -60,3 +60,24 @@ GameDev46
 
 **Art:** <br>
 GameDev46
+
+# Update Log
+
+**V0.1.0**
+
+- Initial release
+
+**V0.1.2**
+
+- More levels
+- Better level creation system
+- More block types
+- Main Menu
+- Level select
+
+**V0.2.0**
+
+- Saving and loading
+- New menu buttons
+- Physics changes
+- New levels
