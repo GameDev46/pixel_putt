@@ -63,11 +63,11 @@ GameDev46
 
 # Update Log
 
-**V0.1.0**
+[**V0.1.0**](/Pixel%20Putt%20V0.1.0)
 
 - Initial release
 
-**V0.1.2**
+[**V0.1.2**](/Pixel%20Putt%20V0.1.2)
 
 - More levels
 - Better level creation system
@@ -75,7 +75,7 @@ GameDev46
 - Main Menu
 - Level select
 
-**V0.2.0**
+[**V0.2.0**](/Pixel%20Putt%20V0.2.0)
 
 - Saving and loading
 - New menu buttons
