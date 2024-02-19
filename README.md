@@ -30,9 +30,9 @@ A simple top down 2D golf game made entirely in C using the raylib library Rayli
 
 # Usage
 
-You may use any version of Pixel Putt you like, but I reccomend using the [newest version](/Pixel%20Putt%20V0.1.2) as it will be the least buggy and most user friendly out of them all!
+You may use any version of Pixel Putt you like, but I reccomend using the [newest version](/Pixel%20Putt%20V0.2.0) as it will be the least buggy and most user friendly out of them all!
 
-Left click, pull back and release to shoot your trusty golf ball across the map evading obstacles and reaching the hole to progress. Pixel Putt is an open source golf game that can be used directly on your windows computer (I am not sure if it is supported on Mac and Linux) by running the [Pixel Putt executable](Pixel%20Putt%20V0.1.2/pixelPutt.exe) file in the repository. If you want to create your own levels or just change the game to your liking, open the [main c file](Pixel%20Putt%20V0.1.2/main.c) using an appropriate code editing software and then when you are finished run the command...
+Left click, pull back and release to shoot your trusty golf ball across the map evading obstacles and reaching the hole to progress. Pixel Putt is an open source golf game that can be used directly on your windows computer (I am not sure if it is supported on Mac and Linux) by running the [Pixel Putt executable](Pixel%20Putt%20V0.2.0/pixelPutt.exe) file in the repository. If you want to create your own levels or just change the game to your liking, open the [main c file](Pixel%20Putt%20V0.2.0/main.c) using an appropriate code editing software and then when you are finished run the command...
 
 <pre>gcc main.c -o pixelPuttModed.exe -O1 -Wall -std=c99 -Wno-missing-braces -I include/ -L lib/ -lraylib -lopengl32 -lgdi32 -lwinmm</pre>
 
