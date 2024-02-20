@@ -74,6 +74,7 @@ GameDev46
 - More block types
 - Main Menu
 - Level select
+- Many bug fixes!
 
 [**V0.2.0**](/Pixel%20Putt%20V0.2.0)
 
@@ -81,3 +82,4 @@ GameDev46
 - New menu buttons
 - Physics changes
 - New levels
+- Many bug fixes!
