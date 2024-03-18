@@ -25,7 +25,7 @@
 
 # pixel_putt
 
-A simple top down 2D golf game made entirely in C using the raylib library Raylib
+A simple top down 2D golf game made entirely in C using the [Raylib library](https://raylib.com)
 
 # Usage
 
