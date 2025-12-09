@@ -16,12 +16,6 @@
  </a>
 
 <br>
-<br>
-
-<p align="left">
-<a href="https://twitter.com/gamedev46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamedev46" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@gamedev46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamedev46" height="30" width="40" /></a>
-</p>
 
 # pixel_putt
 
@@ -31,11 +25,17 @@ A simple top down 2D golf game made entirely in C using the [Raylib library](htt
 
 You may use any version of Pixel Putt you like, but I reccomend using the [newest version](/Pixel%20Putt%20V0.2.0) as it will be the least buggy and most user friendly out of them all!
 
-Left click, pull back and release to shoot your trusty golf ball across the map evading obstacles and reaching the hole to progress. Pixel Putt is an open source golf game that can be used directly on your windows computer (I am not sure if it is supported on Mac and Linux) by running the [Pixel Putt executable](Pixel%20Putt%20V0.2.0/pixelPutt.exe) file in the repository. If you want to create your own levels or just change the game to your liking, open the [main c file](Pixel%20Putt%20V0.2.0/main.c) using an appropriate code editing software and then when you are finished run the command...
+## How To Play
+
+Left click, pull back and release to shoot your trusty golf ball across the map evading obstacles and reaching the hole to progress. Pixel Putt is an open source golf game that can be used directly on your windows computer (Unfortunetely I haven't been able to build a version supported on Mac or Linux but feel free to attempt to build the source code to work on your device yourself) by running the [Pixel Putt executable](Pixel%20Putt%20V0.2.0/pixelPutt.exe) file in the repository. 
+
+## Customisation
+
+If you want to create your own levels or just change the game to your liking, open the [main c file](Pixel%20Putt%20V0.2.0/main.c) using an appropriate code editing software and then when you are finished editing the code run the command:
 
 <pre>gcc main.c -o pixelPuttModed.exe -O1 -Wall -std=c99 -Wno-missing-braces -I include/ -L lib/ -lraylib -lopengl32 -lgdi32 -lwinmm</pre>
 
-...to compile your new code into an exe file. You will however need to install the gcc compiler if you haven't already done so if the compiling fails, but a useful tutorial can be found on the [official VS code website](https://code.visualstudio.com/docs/cpp/config-mingw). Once this is done simply run the pixelPuttModed.exe file and watch as your changes come to life in your new version!
+This will compile your new code into an exe file. You will however need to install the gcc compiler if you haven't already done so if the compiling fails, but a useful tutorial can be found on the [official VS code website](https://code.visualstudio.com/docs/cpp/config-mingw). Once this is done simply run the pixelPuttModed.exe file and watch as your changes come to life in your new version!
 
 # Screenshots
 
